@@ -19,6 +19,8 @@ All heart rate monitors that support BLE can connect. This includes most Chest S
 Note: You still need the HypeRate app (regardless if you are using the iOS / Android / WearOS / WatchOS version) since the Unity plugin uses our Websocket API and DOES NOT use bluetooth for that.
 And you need an API token before you can access the Websocket API via the Unity plugin. You can request your own here at https://www.hyperate.io/api-free-request
 What version of Unity are you using: Unity Hub 3.4.1
+**Important Note**
+With this approach, you can only get BPM for the heart rate, you cannot get Heart Rate Variability (HRV) or Inter-beat Interval (IBI) data for Research Development
 
 
 Links:
@@ -32,6 +34,7 @@ Links:
 * https://github.com/Sonic853/HypeRate-to-VRChat-OSC
 * https://github.com/VolcanicArts/VRCHypeRate
 
+Unity Asset: https://assetstore.unity.com/packages/tools/input-management/heart-rate-plugin-for-hyperate-212796
 
 Sample Video:
 
