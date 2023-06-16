@@ -47,6 +47,8 @@ StreamDeck:
 
 Unity Asset: https://assetstore.unity.com/packages/tools/input-management/heart-rate-plugin-for-hyperate-212796
 
+Meta Quest (HRV and Android Integration): https://about.fb.com/news/2023/01/track-fitness-stats-on-quest-heart-rate-monitoring-android-integration/
+
 Sample Video:
 
 https://github.com/braincomputingsantosh/hrv-unity-plugin/assets/19161376/3764f20e-864b-42bc-9ea4-927f6e03afbc
