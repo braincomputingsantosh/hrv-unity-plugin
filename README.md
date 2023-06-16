@@ -35,6 +35,12 @@ Links:
 * https://github.com/Sonic853/HypeRate-to-VRChat-OSC
 * https://github.com/VolcanicArts/VRCHypeRate
 
+Beatsaber:
+* https://www.hyperate.io/stories/now-available-hyperate-for-beatsaber
+* https://github.com/qe201020335/HRCounter/releases/latest
+* https://github.com/qe201020335/HRCounter#how-to-use
+* A simple webPage to generate a Mod download with config included: https://hrcounter.skyqe.net/
+
 Unity Asset: https://assetstore.unity.com/packages/tools/input-management/heart-rate-plugin-for-hyperate-212796
 
 Sample Video:
