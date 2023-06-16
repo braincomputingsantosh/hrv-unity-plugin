@@ -41,6 +41,10 @@ Beatsaber:
 * https://github.com/qe201020335/HRCounter#how-to-use
 * A simple webPage to generate a Mod download with config included: https://hrcounter.skyqe.net/
 
+StreamDeck:
+* https://apps.elgato.com/plugins/com.hyperate.hyperate
+* https://github.com/Ianchandler1990/HypeRate-StreamDeck-plugin/releases/tag/v2.5.1
+
 Unity Asset: https://assetstore.unity.com/packages/tools/input-management/heart-rate-plugin-for-hyperate-212796
 
 Sample Video:
